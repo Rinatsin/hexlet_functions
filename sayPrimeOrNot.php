@@ -37,3 +37,5 @@ function simple($num)
 	}
 	return true;
 }
+ 
+print_r(sayPrimeOrNot(5));
